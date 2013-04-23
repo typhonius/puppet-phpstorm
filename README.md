@@ -1,6 +1,7 @@
-# PHPStorm Puppet Module for Boxen
+[![Build Status](https://api.travis-ci.org/boxen/puppet-phpstorm.png?branch=master)](https://travis-ci.org/boxen/puppet-phpstorm)
+# PHPStorm Puppet Module for Boxen 
 
-A PHPStorm module for Boxen, you guys!!! [![Build Status](https://api.travis-ci.org/boxen/puppet-phpstorm.png?branch=master)](https://travis-ci.org/boxen/puppet-phpstorm)
+A PHPStorm module for Boxen, you guys!!! 
 
 ## Usage
 
