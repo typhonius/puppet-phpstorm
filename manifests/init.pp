@@ -1,3 +1,4 @@
+# Install PHPStorm
 class phpstorm (
   $version = '6.0',
 ) {
