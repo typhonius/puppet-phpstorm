@@ -1,10 +1,10 @@
 # Install PHPStorm
 class phpstorm (
-  $version = '8.0.1',
+  $version = '2016.1.2',
 ) {
   package { 'PhpStorm':
     ensure   => installed,
     provider => 'appdmg',
-    source   => "http://download.jetbrains.com/webide/PhpStorm-${version}.dmg",
+    source   => "https://download.jetbrains.com/webide/PhpStorm-${version}.dmg",
   }
 }
